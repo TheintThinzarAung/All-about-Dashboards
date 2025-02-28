@@ -2,4 +2,4 @@
 
 Here is a demo of my project:
 
-![Visualization GIF](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/Visualization.gif)
+![Visualization GIF](https://github.com/TheintThinzarAung/All-about-Dashboards/blob/main/TableauSuperStoreSaleDashboard/Visulization.gif)
