@@ -1,18 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Homepage</title>
-</head>
-<body>
-    <h1>Welcome to My Project</h1>
+# My Project
 
-    <!-- Video embed (autoplay) -->
-    <video width="600" controls autoplay>
-        <source src="TableauSuperStoreSaleDashboard.mp4" type="video/mp4">
-        
-    </video>
+Here is a demo of my project:
 
-</body>
-</html>
+![Visualization GIF](https://raw.githubusercontent.com/yourusername/yourrepo/main/images/Visualization.gif)
